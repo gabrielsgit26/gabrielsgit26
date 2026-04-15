@@ -18,17 +18,9 @@ I'm a **Senior Full-Stack & AI Developer** with 16+ years of experience designin
 
 ## 📈 What I Bring
 
-* 🏗️ Scalable system architecture
-* ⚡ High-performance optimization
-* 🔍 Strong debugging & problem-solving
-* 🤝 Team leadership & mentorship
-* 🧼 Clean, maintainable code practices
+* 🏗️ Scalable system architecture * ⚡ High-performance optimization * 🔍 Strong debugging & problem-solving * 🤝 Team leadership & mentorship * 🧼 Clean, maintainable code practices
 
 ---
-
-<p align="center">
-  💬 <i>"Talk is cheap. Show me the code."</i>
-</p>
 
 ## 🚀 Tech Stack
 <p>
