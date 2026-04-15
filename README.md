@@ -16,6 +16,20 @@ I'm a **Senior Full-Stack & AI Developer** with 16+ years of experience designin
 
 ---
 
+## 📈 What I Bring
+
+* 🏗️ Scalable system architecture
+* ⚡ High-performance optimization
+* 🔍 Strong debugging & problem-solving
+* 🤝 Team leadership & mentorship
+* 🧼 Clean, maintainable code practices
+
+---
+
+<p align="center">
+  💬 <i>"Talk is cheap. Show me the code."</i>
+</p>
+
 ## 🚀 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -47,44 +61,3 @@ I'm a **Senior Full-Stack & AI Developer** with 16+ years of experience designin
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git"/>
 </p>
 
----
-
-## 🤖 AI & Automation
-
-* AI Agents & workflow automation
-* API orchestration & integrations
-* FastAPI-based intelligent systems
-* n8n & automation pipelines
-* Decision-based logic systems
-
----
-
-## 🧠 Key Projects
-
-### 🔗 YetBet — Blockchain Prediction Platform
-
-* Full-stack blockchain-based application
-* Secure transaction logic & scalable backend
-* Interactive and responsive UI
-
-### 🤖 AI Agent Systems
-
-* Built intelligent automation workflows
-* Integrated APIs with decision-making logic
-* Designed scalable AI-driven architectures
-
----
-
-## 📈 What I Bring
-
-* 🏗️ Scalable system architecture
-* ⚡ High-performance optimization
-* 🔍 Strong debugging & problem-solving
-* 🤝 Team leadership & mentorship
-* 🧼 Clean, maintainable code practices
-
----
-
-<p align="center">
-  💬 <i>"Talk is cheap. Show me the code."</i>
-</p>
